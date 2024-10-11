@@ -3,7 +3,9 @@
 ### Passionate about creating scalable web applications and mastering cutting-edge technologies
 
 ## About Me
-I am a full-stack developer with expertise in **JavaScript** and **TypeScript**, building dynamic and high-performance web applications. With several years of experience in frameworks like **Next.js**, **React.js**, and **Node.js**, I specialize in creating fast, responsive, and scalable solutions. I thrive in environments that leverage modern APIs, cloud platforms, and data management technologies.
+I am a full-stack developer specializing in building comprehensive web applications, handling both frontend and backend development. While I have extensive experience across the entire development stack, my primary focus and passion lie in creating **intelligent user interfaces** integrated with **AI APIs** such as **OpenAI** and **Gemini**. These interfaces enhance user interactions by providing real-time, context-aware functionality powered by artificial intelligence. 
+
+I thrive on developing fast, responsive applications using frameworks like **Next.js**, **React.js**, and **Node.js**, while leveraging modern technologies for seamless backend integrations. My work aims to blend cutting-edge AI solutions with intuitive and user-friendly designs to deliver complete, scalable applications.
 
 ## Technical Skills
 - **Languages:** JavaScript, TypeScript
