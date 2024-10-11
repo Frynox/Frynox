@@ -16,8 +16,8 @@ I am a full-stack developer with expertise in **JavaScript** and **TypeScript**,
 
 ## Contact Me
 - [LinkedIn]((https://www.linkedin.com/in/neil-montaño/))
-- [Email]: neiljosuemontano@gmail.com
-- [Discord]: josuemontano
+- Email: neiljosuemontano@gmail.com
+- Discord: josuemontano
 
 ---
 
