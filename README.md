@@ -47,7 +47,8 @@ I thrive on developing fast, responsive applications using frameworks like **Nex
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![META API](https://img.shields.io/badge/META_API-4267B2?style=for-the-badge&logo=meta&logoColor=white)
 
 > "Technology evolves, but creativity is infinite."
 
