@@ -17,7 +17,7 @@ I thrive on developing fast, responsive applications using frameworks like **Nex
 - **Other Tools:** Redis, Kafka, Git, Docker
 
 ## Contact Me
-- [LinkedIn]((https://www.linkedin.com/in/neil-montaño/))
+- [LinkedIn](https://www.linkedin.com/in/neil-montaño/)
 - Email: neiljosuemontano@gmail.com
 - Discord: josuemontano
 
