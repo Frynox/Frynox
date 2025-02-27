@@ -5,12 +5,12 @@
 ## About Me
 I am a full-stack developer specializing in building comprehensive web applications, handling both frontend and backend development. While I have extensive experience across the entire development stack, my primary focus and passion lie in creating **intelligent user interfaces** integrated with **AI APIs** such as **OpenAI** and **Gemini**. These interfaces enhance user interactions by providing real-time, context-aware functionality powered by artificial intelligence. 
 
-I thrive on developing fast, responsive applications using frameworks like **Next.js**, **React.js**, and **Node.js**, while leveraging modern technologies for seamless backend integrations. My work aims to blend cutting-edge AI solutions with intuitive and user-friendly designs to deliver complete, scalable applications.
+I thrive on developing fast, responsive applications using frameworks like **Next.js**, **React.js**, **Angular**, and **Node.js**, while leveraging modern technologies for seamless backend integrations. My work aims to blend cutting-edge AI solutions with intuitive and user-friendly designs to deliver complete, scalable applications.
 
 ## Technical Skills
 - **Languages:** JavaScript, TypeScript
-- **Frontend Frameworks:** Next.js, React.js
-- **Backend:** Node.js, Express.js
+- **Frontend Frameworks:** Next.js, React.js, Angular
+- **Backend:** Node.js, Express.js, NestJS
 - **Databases:** PostgreSQL, Sequelize, Redis
 - **APIs:** OpenAI / Gemini API, WhatsApp-web.js
 - **Cloud & SDKs:** Vercel SDK, Kafka
@@ -28,7 +28,9 @@ I thrive on developing fast, responsive applications using frameworks like **Nex
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,6 +40,7 @@ I thrive on developing fast, responsive applications using frameworks like **Nex
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -49,6 +52,7 @@ I thrive on developing fast, responsive applications using frameworks like **Nex
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![META API](https://img.shields.io/badge/META_API-4267B2?style=for-the-badge&logo=meta&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 > "Technology evolves, but creativity is infinite."
-
