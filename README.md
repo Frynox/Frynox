@@ -19,7 +19,7 @@ I thrive on developing fast, responsive applications using frameworks like **Nex
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/neil-montaño/)
 - Email: neiljosuemontano@gmail.com
-- Discord: josuemontano
+- Discord: frynox__
 
 ---
 
