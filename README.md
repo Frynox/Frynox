@@ -1,58 +1,93 @@
-# Hi there! I'm Neil, a Full-Stack JavaScript Developer 👋
+<div align="center">
 
-### Passionate about creating scalable web applications and mastering cutting-edge technologies
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=32&duration=3000&pause=1000&color=00FFE7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Neil+Montano+%F0%9F%91%8B;Full+Stack+Developer;Tech+Lead+%7C+AI+Integration;Node.js+%C2%B7+Next.js+%C2%B7+GPT-4o" alt="Typing SVG" />
 
-## About Me
-I am a full-stack developer specializing in building comprehensive web applications, handling both frontend and backend development. While I have extensive experience across the entire development stack, my primary focus and passion lie in creating **intelligent user interfaces** integrated with **AI APIs** such as **OpenAI** and **Gemini**. These interfaces enhance user interactions by providing real-time, context-aware functionality powered by artificial intelligence. 
+<br/>
 
-I thrive on developing fast, responsive applications using frameworks like **Next.js**, **React.js**, **Angular**, and **Node.js**, while leveraging modern technologies for seamless backend integrations. My work aims to blend cutting-edge AI solutions with intuitive and user-friendly designs to deliver complete, scalable applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neil-montaño/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFE7?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-web-eight-orcin.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neiljosuemontano@gmail.com)
 
-## Technical Skills
-- **Languages:** JavaScript, TypeScript
-- **Frontend Frameworks:** Next.js, React.js, Angular
-- **Backend:** Node.js, Express.js, NestJS
-- **Databases:** PostgreSQL, Sequelize, Redis
-- **APIs:** OpenAI / Gemini API, WhatsApp-web.js
-- **Cloud & SDKs:** Vercel SDK, Kafka
-- **Other Tools:** Redis, Kafka, Git, Docker
-
-## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/neil-montaño/)
-- Email: neiljosuemontano@gmail.com
-- Discord: frynox__
+</div>
 
 ---
 
-### Other technologies
+## About Me
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+Full Stack Developer and Tech Lead with **3+ years** building scalable web apps and AI-powered solutions. I own the full technical lifecycle of products — from backend architecture to deployment.
+
+- 🏗️ Led a platform with **11+ microservices** using Node.js / Express.js
+- 🤖 Deployed **OpenAI chatbots** that automated **80% of support queries** via WhatsApp
+- ⚡ Improved AI assistant efficiency **30%** through systematic prompt engineering
+- 🌎 Based in **Argentina** · Open to **remote roles** globally · English B2
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**AI & Integrations**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_API-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+**Databases & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![WhatsApp-web.js](https://img.shields.io/badge/WhatsApp_Web.js-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![META API](https://img.shields.io/badge/META_API-4267B2?style=for-the-badge&logo=meta&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-> "Technology evolves, but creativity is infinite."
+**Other**
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **Wavyo** | WhatsApp Business automation platform with GPT-4o, dual AI mode, built-in CRM, real-time order tracking | Next.js · Node.js · OpenAI · Socket.io · Docker | [Demo](https://wavyo-demo.vercel.app/auth/register) · [Repo](https://github.com/Frynox/wavyo-demo) |
+| **TuristiAR** | Buenos Aires tourism guide — dynamic events via web scraping, Google Maps, Booking.com, ISR | Next.js · React 19 · Google Maps API · Vercel | [Demo](https://v0-turisti-ar.vercel.app) · [Repo](https://github.com/Frynox/turisti-ar) |
+| **PR Review AI** | Paste a GitHub PR URL → instant AI code review with severity ratings, score ring & per-file analysis | Next.js 14 · GPT-4o · GitHub API · Tailwind | [Repo](https://github.com/Frynox/pr-review-ai) |
+| **SecureScan** | OWASP-aligned AI security auditor for GitHub repos — finds vulns, scores risk, suggests fixes | Next.js · Express.js · GPT-4o · PostgreSQL · Prisma | [Repo](https://github.com/Frynox/secure-scan) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Frynox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00ffe7&icon_color=7b2fff&text_color=e2e8f0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frynox&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00ffe7&text_color=e2e8f0&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>
+    "I don't just integrate APIs — I own the full technical lifecycle of products."
+  </sub>
+</div>
