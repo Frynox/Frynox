@@ -66,12 +66,22 @@ Full Stack Developer and Tech Lead with **3+ years** building scalable web apps 
 
 ## 🚀 Featured Projects
 
+### Personal
+
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
 | **Wavyo** | WhatsApp Business automation platform with GPT-4o, dual AI mode, built-in CRM, real-time order tracking | Next.js · Node.js · OpenAI · Socket.io · Docker | [Demo](https://wavyo-demo.vercel.app/auth/register) · [Repo](https://github.com/Frynox/wavyo-demo) |
 | **TuristiAR** | Buenos Aires tourism guide — dynamic events via web scraping, Google Maps, Booking.com, ISR | Next.js · React 19 · Google Maps API · Vercel | [Demo](https://v0-turisti-ar.vercel.app) · [Repo](https://github.com/Frynox/turisti-ar) |
 | **PR Review AI** | Paste a GitHub PR URL → instant AI code review with severity ratings, score ring & per-file analysis | Next.js 14 · GPT-4o · GitHub API · Tailwind | [Repo](https://github.com/Frynox/pr-review-ai) |
 | **SecureScan** | OWASP-aligned AI security auditor for GitHub repos — finds vulns, scores risk, suggests fixes | Next.js · Express.js · GPT-4o · PostgreSQL · Prisma | [Repo](https://github.com/Frynox/secure-scan) |
+
+### Professional
+
+| Project | Company | Description | Stack |
+|---------|---------|-------------|-------|
+| **Virtualiabot** | Gestora La Avanzada | Full platform ownership as sole Tech Lead — 11+ microservices backend, OpenAI chatbot (40% faster responses), WhatsApp assistant automating 80% of support | Node.js · Express.js · OpenAI · Docker · Redis · Kafka |
+| **CRM Migration** | Gestora La Avanzada | Migrated a legacy PowerBuilder CRM (contacts, campaigns, deals) to Node.js with a BullMQ job queue to eliminate bottlenecks under peak load | Node.js · BullMQ · Redis |
+| **Las Olas Lechería** | Freelance | Hotel web platform optimization — quick booking flow, Google Ads & Analytics integration for full conversion funnel tracking | Next.js · TypeScript · Nodemailer · Vercel |
 
 ---
 
