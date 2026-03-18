@@ -85,16 +85,6 @@ Full Stack Developer and Tech Lead with **3+ years** building scalable web apps 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Frynox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00ffe7&icon_color=7b2fff&text_color=e2e8f0" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frynox&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00ffe7&text_color=e2e8f0&langs_count=6" />
-
-</div>
-
----
 
 <div align="center">
   <sub>
